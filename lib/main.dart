@@ -1,5 +1,5 @@
-import 'package:chatapp/auth/auth_gate.dart';
-import 'package:chatapp/auth/login_or_register.dart';
+import 'package:chatapp/services/auth/auth_gate.dart';
+import 'package:chatapp/services/auth/login_or_register.dart';
 import 'package:chatapp/firebase_options.dart';
 import 'package:chatapp/pages/login_page.dart';
 import 'package:chatapp/pages/register_page.dart';
